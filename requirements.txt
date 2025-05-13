@@ -1,0 +1,4 @@
+python-telegram-bot==20.0
+apscheduler==3.8.1
+pytz==2022.1
+psycopg2==2.9.3
