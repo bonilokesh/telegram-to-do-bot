@@ -8,7 +8,7 @@ A simple Telegram bot that allows users to manage their to-do lists directly thr
 - View current tasks
 - Mark tasks as done
 - Delete completed or specific tasks
-- Persistent storage of tasks per user
+- Notify user when there is pending tasks
 
 ## link to the bot
 https://t.me/task2003bot
